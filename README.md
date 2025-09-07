@@ -2,12 +2,12 @@
 
 The campus Event managemnt platform contains both admin and student portal for managing events in the college. it has a features like
 
-*Admin dashboard
-*Admin Authentication page.
-*Creation of the event by the Admin
-*Attendence monitoring, registered students, deletion and feedbacks of the event.
-*Student management like adding, updating, deleting and managing student details by Admin.
-*Reports like event report, information of the students who are registered for the particular events and event popularity report.
+- Admin dashboard
+- Admin Authentication page.
+- Creation of the event by the Admin
+- Attendence monitoring, registered students, deletion and feedbacks of the event.
+- Student management like adding, updating, deleting and managing student details by Admin.
+- Reports like event report, information of the students who are registered for the particular events and event popularity report.
 
 *Student Dashboard
 *Student Authentication page.
