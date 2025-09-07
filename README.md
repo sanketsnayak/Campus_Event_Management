@@ -1,4 +1,5 @@
-Campus Event Management platform
+#Campus Event Management platform
+
 The campus Event managemnt platform contains both admin and student portal for managing events in the college. it has a features like
 *Admin dashboard
 *Admin Authentication page.
