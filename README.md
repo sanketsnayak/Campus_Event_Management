@@ -37,3 +37,5 @@ Project contains 3 folders backend, fronend-admin, frontend-student
 - DataBase : SQLite3
 - CSS Styling : TailwindCSS
 - Secure Authentication : JWT and Bycrypt.js
+<img width="1363" height="663" alt="Screenshot 2025-09-07 132106" src="https://github.com/user-attachments/assets/490a88c3-5f68-484d-a806-832866be8bf5" />
+
